@@ -52,11 +52,12 @@ The system runs in Google Colab and allows users to either upload an image or ca
 ---
 
 ## 📂 Project Structure
+```bash
 AI-Face-Restoration/
 │
 ├── DL_PhotoRestore.ipynb
 └── README.md
-
+```
 ---
 
 ## ▶️ How to Run
